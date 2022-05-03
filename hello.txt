@@ -3,4 +3,8 @@ Hello, world!
 Новая строка
 Другая строка
 
-Hello, git cherry-pick!
+
+
+
+
+Hello, squash!
