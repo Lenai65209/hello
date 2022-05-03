@@ -4,3 +4,5 @@ Hello, world!
 Другая строка
 
 Hello, git rebase!
+Hello, git cherry-pick!
+
