@@ -3,10 +3,7 @@ Hello, world!
 Новая строка
 Другая строка
 
-<<<<<<< HEAD
 Hello, git rebase!
 Hello, git cherry-pick!
 
-=======
-Hello, git cherry-pick!
->>>>>>> f59d044 (Adding new line git feature|REBASE 1)
+New line.
